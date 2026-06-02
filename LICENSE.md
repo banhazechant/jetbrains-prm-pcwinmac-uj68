@@ -1,4 +1,4 @@
-# 
+# Personalizado JetBrains PyCharm scripts para Mac OS | Leve JetBrains PyCharm scripts para PC Windows. Com atalhos de teclado e editor dividido — otimizado para máximo desempenho em cada plataforma.
 
 
 
